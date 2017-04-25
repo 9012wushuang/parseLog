@@ -1,5 +1,7 @@
 
-平均时间 访问uri                                调用次数
+
+
+访问平均时间 访问uri				访问数量
 19276.1 http://api.appems.com/api/cop/idfaquery 6405 
 16999.7 http://api.wall.adjuz.com/ashx/click.ashx 1156 
 12869.6 http://expandxy.51kahui.com/api/xyzs/index  430 
@@ -40,4 +42,4 @@
 2072.95 http://api.highpin.cn/kingapi/ASO/IDFADistinct   19 
 2060 http://cloud.baiwutong.com:8080/post_sms.do    2 
 1297.21 https://api.weixin.qq.com/cgi-bin/token   14 
-242.426 https://proxy.xiu8.com/proxy/user/system/ios/click  495 
+242.426 https://proxy.xiu8.com/proxy/user/system/ios/click  495

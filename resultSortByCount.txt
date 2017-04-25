@@ -1,0 +1,43 @@
+
+访问数量 访问uri			   访问平均时间
+35684  http://www.apptyk.com/data/pt-click 3450.03
+26327  http://d.miaozhuandaqian.com/visitor/api/common/mz/updateCoin 5002.3
+19464  http://qc.cattry.com/Home/Union/qc.html 11644.2
+10648  http://shokey.shiwan123.com/experienceReward/api/alliance/filter 4457.02
+7161  http://d.miaozhuandaqian.com/visitor/api/common/mz/random 4973.95
+6405  http://api.appems.com/api/cop/idfaquery 19276.1
+3713  http://api.23dx.cn/ios/echo 5565.57
+2150  http://qc.cattry.com/Home/Union/click.html 5986.95
+2015  http://shokey.shiwan123.com/experienceReward/api/alliance/take 2362.18
+1932  http://expandxy.51kahui.com/api/xyrun/isexistidfa 9074.11
+1610  http://asoapi.aiyingli.com/api/aso_IdfaRepeat/cpid/517/ 2253.86
+1475  http://a.apix.cn/apixlife/phone/phone 3500.47
+1259  http://gateway.8win.com/event/thirdparty/idfa/distinct 11656.1
+1156  http://api.wall.adjuz.com/ashx/click.ashx 16999.7
+1139  http://api.23dx.cn/ios/click 4038.52
+1103  http://api.appems.com/api/cop/idfaclick 8258.86
+1048  http://dedup.x.foozo.cn/distinct/multiple 12806.1
+1013  http://www.huishuaka.com/credit/checkIdfa.go 2783.03
+ 495  https://proxy.xiu8.com/proxy/user/system/ios/click 242.426
+ 488  http://api.vlink.cn/interface/open/v1/webcall 9079.18
+ 430  http://expandxy.51kahui.com/api/xyzs/index 12869.6
+ 359  http://es2.laizhuan.com/module/offer/data.php 3605.23
+ 283  http://api.repeat.adjuz.com/PcHandler.ashx 11297.2
+ 269  http://shike.ddashi.com/shike/repeatnew.php 9191.68
+ 213  http://x.foozo.cn/track/click 6841.35
+ 210  http://www.doumi.com/api/idfa 3136.11
+ 171  http://gateway.8win.com/event/thirdparty/idfa/click 7814.27
+ 154  http://api.refanqie.com/1/hlw-coreapi/channel/checkIdfa.json 8580.92
+ 110  http://asoapi.aiyingli.com/api/aso_source/cpid/517/ 2256.67
+ 105  http://api.refanqie.com/1/hlw-coreapi/channel/reportClick.json 7494.23
+  34  http://api.open.liequ.cn/Verification/b2b/queryIdfaIsActivate 2859.35
+  25  http://x.foozo.cn/notify/universalcrypt 3816.12
+  19  http://api.highpin.cn/kingapi/ASO/IDFADistinct 2072.95
+  14  https://api.weixin.qq.com/cgi-bin/token 1297.21
+   6  http://jz.9188.com/aso/downloadApp.go 2385.5
+   5  http://duobao.lieqicun.cn/visitor/api/common/mz/random 5004
+   4  https://api.weixin.qq.com/cgi-bin/ticket/getticket 2080.75
+   4  http://www.xiaoyuzhuanqian.com/index/index/activecallback/ 3086
+   3  http://jz.9188.com/aso/distinct.go 3050
+   2  http://expandxy.51kahui.com/api/pay/addpay 9179.5
+   2  http://cloud.baiwutong.com:8080/post_sms.do 2060
