@@ -2,7 +2,6 @@
 #!/bin/sh
 
 common_path="$( dirname "${BASH_SOURCE[0]}" )/.." && pwd 
-#common_path=/Users/bifenghui/work/online-logs/mapiOnlineServiceLogs
 dir1=10.251.147.60
 dir2=10.251.147.62
 super=super.log
